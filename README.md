@@ -44,9 +44,9 @@ In auto mode, A sensor would be measureing the overoll illuminance level in the 
 ![Screenshot 2022-09-19 222803](https://user-images.githubusercontent.com/77055565/191072269-11a7702b-f163-4b3c-95cd-0f36e8672bf0.png)
 
 
-
-
 ## Sensors used and their Configurations 
+
+![Screenshot 2022-09-19 231100](https://user-images.githubusercontent.com/77055565/191079791-27ae389f-3905-44cb-8cd2-f8187a39d96f.png)
 
 **NodeMCU ESP8266** would be used as the micro-controller for the device and the sensors would be connected accordingly.
 **BH1750** is used as the main Light Sensor Used for detection of Illuminance in an indoor environment. I2C is used as the communication method.
