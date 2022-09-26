@@ -40,8 +40,9 @@ In auto mode, A sensor would be measureing the overoll illuminance level in the 
 
 ## Project TimeLine
 
+![image](https://user-images.githubusercontent.com/77055565/192230852-0549f6ae-f051-42b6-98a1-fb1c9fa4ea2b.jpg)
 
-![Screenshot 2022-09-19 222803](https://user-images.githubusercontent.com/77055565/191072269-11a7702b-f163-4b3c-95cd-0f36e8672bf0.png)
+
 
 
 ## Sensors used and their Configurations 
@@ -54,4 +55,11 @@ In auto mode, A sensor would be measureing the overoll illuminance level in the 
 ![image](https://user-images.githubusercontent.com/77055565/191073987-1c251a4e-0f96-4dc8-9f5d-dcd9676680b2.png)
 
 
+## Recommended Luminance Levels that needs to be maintained inside a household
+
+Several Researches have been carried out by different parties in order to arrive at conclusions regarding lumminance levels that needs to be maintained in different sectors of a household. These values would be directly connected with the human health that we have discussed above.
+
+
+
+![Screenshot 2022-09-26 143736](https://user-images.githubusercontent.com/77055565/192237910-99259aac-b8da-4723-a72f-8a06ecc32adb.png)
 
