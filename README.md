@@ -57,9 +57,25 @@ In auto mode, A sensor would be measureing the overoll illuminance level in the 
 
 ## Recommended Luminance Levels that needs to be maintained inside a household
 
-Several Researches have been carried out by different parties in order to arrive at conclusions regarding lumminance levels that needs to be maintained in different sectors of a household. These values would be directly connected with the human health that we have discussed above.
+Several Researches have been carried out by different parties in order to arrive at conclusions regarding lumminance levels that needs to be maintained in different sectors of a household. These values would be directly connected with the human health that we have discussed above[1][2].
 
 
 
 ![Screenshot 2022-09-26 143736](https://user-images.githubusercontent.com/77055565/192237910-99259aac-b8da-4723-a72f-8a06ecc32adb.png)
 
+## Facial Recognition
+
+For the live feed, there can be two options for us to try on. Its either to use the laptop webcam as a prototype or else we can directly use ESP32-Cam module directly as the micro controller. But the only issure is that it doesn't provide much periferals as the ESP8266 and the availability factor should be checked with the IoT lab. For now just to test how it goes Open CV code has been analysed.
+
+Few Steps should be considered when implementing Face Detection.
+
+    Step 1: Access to webcam
+    step 2: Face identification.
+    step 3: Data collection
+    Step 4: Training
+    step 5: Face recognition
+    step 6: Programming ESP8266
+
+## Refereneces
+[1] - https://www.archtoolbox.com/recommended-lighting-levels/
+[2] - https://www.luxgeneral-lighting.co.uk/recommended-lighting-levels/
