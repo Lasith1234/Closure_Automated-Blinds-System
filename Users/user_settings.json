@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "username": "lasith",
+            "mode": "auto",
+            "wakeUP": 6.00,
+            "turnDOWN": 18.00,
+            "alwaysOFF": false
+        },
+        {
+            "username": "akila",
+            "mode": "manual",
+            "wakeUP": 6.15,
+            "turnDOWN": 17.00,
+            "alwaysOFF": true
+        },
+        {
+            "username": "wickie",
+            "mode": "auto",
+            "wakeUP": 8.00,
+            "turnDOWN": 18.30,
+            "alwaysOFF": false
+        },
+        {
+            "username": "sulaksha",
+            "mode": "manual",
+            "wakeUP": 7.30,
+            "turnDOWN": 17.45,
+            "alwaysOFF": false
+        },
+        {
+            "username": "dilmie",
+            "mode": "manual",
+            "wakeUP": 9.00,
+            "turnDOWN": 18.15,
+            "alwaysOFF": true
+        },
+        {
+            "username": "danu",
+            "mode": "auto",
+            "wakeUP": 5.00,
+            "turnDOWN": 16.00,
+            "alwaysOFF": false
+        },
+        {
+            "username": "nethmin",
+            "mode": "auto",
+            "wakeUP": 7.45,
+            "turnDOWN": 19.00,
+            "alwaysOFF": false
+        },
+        {
+            "username": "minduli",
+            "mode": "manual",
+            "wakeUP": 6.00,
+            "turnDOWN": 18.00,
+            "alwaysOFF": true
+        }
+    ]
+}
