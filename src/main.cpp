@@ -11,18 +11,9 @@ using namespace std;
 BH1750 lightMeter(0x23);
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-string roomType = "bedroomC";
+string roomType = "stairway";
 
 unordered_map<string, int> room_type;
-
-// room_type["kitchen"] = 400;
-// room_type["office"] = 400;
-// room_type["parking"] = 125;
-// room_type["restroom"] = 200;
-// room_type["stairway"] = 125;
-// room_type["bedroomC"] = 350;
-// room_type["bedroomA"] = 200;
-// room_type["livingroom"] = 300;
 
 void balanceLUX(int recom, float current) {
   lcd.setCursor(0, 1);
@@ -34,8 +25,6 @@ void balanceLUX(int recom, float current) {
 }
 
 void setup() {
-  // unordered_map<string, int> room_type;
-
   room_type["kitchen"] = 400;
   room_type["office"] = 400;
   room_type["parking"] = 125;
@@ -103,10 +92,6 @@ void loop() {
   if (lightMeter.measurementReady()) {
     float lux = lightMeter.readLightLevel();
     int balanceV = room_type.at(roomType);
-
-    // Serial.print("Light: ");
-    // Serial.print(lux);
-    // Serial.println(" lx");
 
     lcd.print("Light: ");
     lcd.print(lux);
