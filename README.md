@@ -59,7 +59,7 @@ In auto mode, A sensor would be measureing the overoll illuminance level in the 
 
 Several Researches have been carried out by different parties in order to arrive at conclusions regarding lumminance levels that needs to be maintained in different sectors of a household. These v
 
-https://user-images.githubusercontent.com/77055565/199193488-96ac916a-cd35-4a17-b90e-af169e1418a1.mp4
+
 
 alues would be directly connected with the human health that we have discussed above[1][2].
 
@@ -68,6 +68,8 @@ alues would be directly connected with the human health that we have discussed a
 ![Screenshot 2022-09-26 143736](https://user-images.githubusercontent.com/77055565/192237910-99259aac-b8da-4723-a72f-8a06ecc32adb.png)
 
 The BH1750 Sensor Was initialized and made to balance the illuminance levels according to recomendded levels given in the research papers. The video below is a slight demonstration on how the system is implemented so far.
+
+https://user-images.githubusercontent.com/77055565/199193488-96ac916a-cd35-4a17-b90e-af169e1418a1.mp4
 
 
 
@@ -83,6 +85,12 @@ Few Steps should be considered when implementing Face Detection.
     Step 4: Training
     step 5: Face recognition
     step 6: Programming ESP8266
+    
+ 
+An openCV code has been extrected and applied as the first step in detecting people on live footages. That code has been enhanced in order to recognize people and to output the name of that particular person occupying the room. Google dataset search was used as an online resource on finding the appropriate dataset. In adition few familiar faces were used in training the model to get a more live feedback and to check whether the code actually works.
+
+
+![Face Detection](https://user-images.githubusercontent.com/77055565/199195084-aaae4171-520d-4b9d-bc9b-cb9c449b7e4b.png)
 
 ## Refereneces
 [1] - https://www.archtoolbox.com/recommended-lighting-levels/
