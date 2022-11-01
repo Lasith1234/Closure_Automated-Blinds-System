@@ -97,13 +97,7 @@ An openCV code has been extrected and applied as the first step in detecting peo
 Initial Stages of the mobile app was depolyed and several view layouts have been created. The activities are interconnected and a simple database is to be implemented as the next step in order to work with multiple accounts of users.
 
 
-
-
-![Screenshot 2022-11-01 143702](https://user-images.githubusercontent.com/77055565/199199798-0f36c9ae-b17e-4c2e-934d-81ab7d827463.png)
-
-![Screenshot 2022-11-01 143721](https://user-images.githubusercontent.com/77055565/199199817-6ec14273-7e3b-4925-a2d6-f9b72e9dc4db.png)
-
-![Screenshot 2022-11-01 143739](https://user-images.githubusercontent.com/77055565/199199864-8f642186-79c3-4af0-964a-cda95dd2a6e8.png)
+![Untitled design](https://user-images.githubusercontent.com/77055565/199200473-3ac4cfed-5664-44b1-9c79-7a9a7c2f2a2c.png)
 
 
 ## Refereneces
