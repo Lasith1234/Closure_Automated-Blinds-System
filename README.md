@@ -57,11 +57,19 @@ In auto mode, A sensor would be measureing the overoll illuminance level in the 
 
 ## Recommended Luminance Levels that needs to be maintained inside a household
 
-Several Researches have been carried out by different parties in order to arrive at conclusions regarding lumminance levels that needs to be maintained in different sectors of a household. These values would be directly connected with the human health that we have discussed above[1][2].
+Several Researches have been carried out by different parties in order to arrive at conclusions regarding lumminance levels that needs to be maintained in different sectors of a household. These v
+
+https://user-images.githubusercontent.com/77055565/199193488-96ac916a-cd35-4a17-b90e-af169e1418a1.mp4
+
+alues would be directly connected with the human health that we have discussed above[1][2].
 
 
 
 ![Screenshot 2022-09-26 143736](https://user-images.githubusercontent.com/77055565/192237910-99259aac-b8da-4723-a72f-8a06ecc32adb.png)
+
+The BH1750 Sensor Was initialized and made to balance the illuminance levels according to recomendded levels given in the research papers. The video below is a slight demonstration on how the system is implemented so far.
+
+
 
 ## Facial Recognition
 
